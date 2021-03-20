@@ -22,6 +22,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  overflow: hidden;
 
   @media only screen and (max-width: $bp-smallest) {
     flex-wrap: wrap;
